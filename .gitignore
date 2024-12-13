@@ -1,0 +1,8 @@
+# jupyter stuff
+.ipynb_checkpoints/
+.~lock*
+
+# data files
+*.csv
+*.pickle
+*.zip
